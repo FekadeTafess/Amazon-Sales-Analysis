@@ -1,5 +1,6 @@
 # Amazon-Sales-Analysis
 I managed to create an analysis on Amazon product sales from Q4 data
+
 The Problem Statement
 
 For my analysis, I chose to focus on a question regarding Amazon product sales in the last fiscal quarter. After searching online for relevant datasets, I found one on Kaggle that specialized in Amazon products. The central question I developed is: "Which product categories generated the most revenue in different geographic regions during the last quarter (Q4 2024)?"
